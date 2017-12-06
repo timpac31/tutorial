@@ -42,3 +42,5 @@
 + ex) git config --global merge.tool p4merge
 + ex) git config --global mergetoll.p4merge.cmd 'p4merge $BASE $LOCAL $REMOTE $MERGED'
 + ex) git config --global mergetool.p4merge.path 'C:\Program Files\Perforce\p4merge.exe'
+3. 실행
++ ex) git difftool
