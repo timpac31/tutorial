@@ -43,7 +43,7 @@
 + ex) git config --global mergetool.p4merge.cmd 'p4merge $BASE $LOCAL $REMOTE $MERGED'
 + ex) git config --global mergetool.p4merge.path 'C:\Program Files\Perforce\p4merge.exe'
 3. 실행
-+ ex) git difftool
++ ex) git mergetool
 
 # conflict merge 
 1. using stash
