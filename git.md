@@ -25,7 +25,7 @@
 + ex) git push origin master  
 + $) git push origin +master   //강제푸쉬	      
 
-4.pull
+4. pull
 + ex) git pull origin master
 
 # branch
