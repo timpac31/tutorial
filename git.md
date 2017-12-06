@@ -44,3 +44,13 @@
 + ex) git config --global mergetool.p4merge.path 'C:\Program Files\Perforce\p4merge.exe'
 3. 실행
 + ex) git difftool
+
+# conflict merge 
+1. using stash
++ git stash 
++ git pull
++ git stash pop
++ git diff
++ git difftool  or  vi [파일명] 
++ git commit
++ git push
