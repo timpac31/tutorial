@@ -51,6 +51,6 @@
 + git pull
 + git stash pop
 + git diff
-+ git difftool  or  vi [파일명] 
++ git mergetool  or  vi [파일명] 
 + git commit
 + git push
