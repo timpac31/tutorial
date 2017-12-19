@@ -1,8 +1,8 @@
 # PhotoGallery Tutorial
 > image preview, HTML5 multi select 구현
-+ libs <br/>
- jai_core.jar, jai_imageid.jar, commons-fileupload-1.3.2.jar, commons-io-1.3.2.jar, commons-codec-1.3.jar
-+ issues <br/>
++ LIBS <br/>
+ jai_core.jar, jai_imageid.jar, commons-fileupload-1.3.2.jar, commons-io-1.3.2.jar, commons-codec-1.3.jar, json-simple.jar
++ ISSUE <br/>
  파일 다중선택시 oreilly multipart upload library에서는 파일 하나밖에 못 가져와서 지원이 안됨 <br/>
  apache commons fileupload 로 구현
  
