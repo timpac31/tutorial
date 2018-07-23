@@ -26,6 +26,7 @@ setInterval(function(){
 > 양방향통신  
 + Support : java1.6+, tomcat7+, jeus 7 fix3+, IE10+, HTML5
 4. Server Sent Event
+> Server Push 
 ~~~
 if(typeof(EventSource) !== "undefined") {
     var source = new EventSource("demo_sse.php");
