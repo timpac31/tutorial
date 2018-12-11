@@ -2,6 +2,13 @@
 1. 계정설정
 + $) git config --global user.name "timpac31"
 + $) git config --global user.email "timpac31@gmail.com"
+ 
++ 전체 이름 삭제
+git config –global –unset-all user.name
++ 전체 이메일 삭제
+git config –global –unset-all user.email
++ 리스트 확인
+git config –global –list
 
 2. 초기화
 + $) git init
