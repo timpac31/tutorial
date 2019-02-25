@@ -61,3 +61,6 @@ git config –global –list
 + git mergetool  or  vi [파일명] 
 + git commit
 + git push
+
+# monitoring log
++ ex) gitk -all or -branch
