@@ -63,4 +63,4 @@ git config –global –list
 + git push
 
 # monitoring log
-+ ex) gitk -all or -branch
++ ex) gitk --all or --branch
